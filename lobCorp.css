@@ -1,0 +1,187 @@
+.head{
+    font-family: "lobotomy";
+    margin: auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    background-color: rgba(251, 60, 58);
+    height: 120px;
+    border: 8px solid rgb(226, 72, 74);
+}
+@font-face {
+    font-family: "lobotomy";
+    src: url(Font/norwester.otf);
+}
+.something{
+    color: rgba(38, 0, 0);
+    text-decoration: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 245, 188);
+}
+h1{
+    font-size: 300%;
+}
+h2{
+    padding-left: 2%;
+    font-size: 28px;
+    
+}
+.themesAndSuch{
+    padding: 2%;
+    text-align: center;
+    font-family: "lobotomy" ;
+    font-size: 50px;
+}
+.FooFighters{
+    background-color: rgb(23, 14, 0);
+    color:rgba(251, 254, 180);
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 10%;
+    border:3px solid rgba(64, 66, 52);
+    margin-bottom: 3%;
+    margin-top: 0.5%;
+}
+.gen_text{
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 5%;
+    padding-left: 2%;
+}
+.secondtrumpet{
+    font-family: "lobotomy";
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top:0%;
+    margin-bottom: 0.5%;
+    background-color: rgba(21, 63, 83);  
+    align-content: center;
+    border: 4px solid rgba(64, 66, 52);
+    color: rgba(75, 112, 172);
+}
+.firsttrumpet{
+    font-family: "lobotomy";
+    display: flex;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-top:0%;
+    background-color: rgba(94, 22, 17);  
+    align-content: center;
+    border: 4px solid rgba(64, 66, 52);
+    color: rgba(252, 58, 65);
+}
+.icons{
+    height:80px;
+    padding-left: 2%;
+}
+.game{
+    border:7px solid rgb(32, 7, 7);
+}
+#Hokma{
+    height: 300px;
+    align-self: center;
+}
+.trumpet{
+    color: rgb(218, 189, 45);
+    text-decoration: none;
+}
+.stomachBook{
+    font-family: "lobotomy";
+    height: 20%;
+    margin: 5%;
+    margin-top: 7%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(94, 22, 17);  
+    color:rgba(251, 254, 180); 
+    align-content: center;
+    border: 4px solid rgba(64, 66, 52);
+}
+#cyber{
+    padding:2%;
+    display: flex;
+    justify-content: left; 
+    
+}
+.title{
+    color:rgba(251, 254, 180);
+    font-family: 'Courier New', Courier, monospace;
+}
+.seph1{
+    background-color: rgb(116, 89, 33);
+    border: 4px solid rgb(77, 64, 24);
+}
+.seph2{
+    background-color: rgb(111, 78, 117);
+    border: 4px solid rgb(160, 120, 127);
+}
+.seph3{
+    background-color: rgb(116, 89, 33);
+    border: 4px solid rgb(77, 64, 24);
+    
+}
+.seph4{
+    background-color: rgb(74, 85, 23);
+    border: 4px solid rgb(10, 46, 1);
+}
+.seph5{
+    background-color: #fffddb;
+    border: 4px solid #e4e1a6;
+}
+.seph6{
+    background-color: rgb(97, 37, 35);
+    border: 4px solid rgb(54, 20, 20);
+}
+.seph7{
+    background-color: rgb(31, 63, 99);
+    border: 4px solid rgb(14, 28, 58);
+}
+.seph8{
+    background-color: rgb(0, 0, 0);
+    border: 4px solid rgb(67, 68, 6);
+}
+.seph9{
+    background-color: rgb(255, 255, 255);
+    border: 4px solid rgb(148, 148, 148);
+}
+.Angela{
+    background-color: rgb(50, 48, 70);
+    border: 4px solid rgb(208, 244, 255);
+}
+.Ayin{
+    background-color: rgb(53, 53, 53);
+    border: 4px solid rgb(221, 174, 86);
+}
+.Distort{
+    background-color: rgb(77, 14, 12);
+    border: 4px solid rgb(136, 125, 90);
+}
+#Blokma{
+    height: 150px;
+    align-self: center;
+}
+.somestring{
+    display: flex;
+    padding-left: 4%;
+}
+#aura{
+    width: fit-content;
+    height: 500px;
+    align-self: center;
+}
+#icon{
+    border:3px solid rgb(32, 7, 7);
+    height:80px;
+}
+.some{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    height: 100%;
+}
